@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+   albin     114     113 pty0     09:39:21 /usr/bin/bash
+   albin     234     114 pty0     11:42:59 /usr/bin/ps
+   albin     113       1 ?        09:39:21 /usr/bin/mintty
